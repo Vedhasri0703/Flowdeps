@@ -316,16 +316,3 @@ npm run preview
 | Variable | Description | Example |
 |---|---|---|
 | `VITE_API_URL` | Backend API base URL | `http://localhost:5000/api` |
-
-
-### SAMPLE LOGIN USERS
-
-
-**FOR CREATORS**
-1. Email: admin@example.com, Password: admin@123
-2. Email: e0323043@sriher.edu.in, Password: vedhasri@2006
-3. Email: vedhakumar0665@gmail.com, Password: vedha@123
-
-**FOR EXECUTORS**
-1. Email: john@example.com, Password: john@123
-2. Email: harsh@gmail.com, Password: password321
